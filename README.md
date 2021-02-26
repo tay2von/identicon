@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**I will generate a 5x5 Identicon based on any given string. The input strings will be stored in a database. If the same string is input, the same identicon will be shown. Otherwise, the identicon will be different**
 
 ## Installation
 
